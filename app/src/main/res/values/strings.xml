@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Travel Planner</string>
+  <string name="photo">Photo: %s</string>
+</resources>
