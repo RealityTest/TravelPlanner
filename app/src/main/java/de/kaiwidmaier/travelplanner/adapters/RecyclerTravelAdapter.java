@@ -118,7 +118,7 @@ public class RecyclerTravelAdapter extends RecyclerView.Adapter<RecyclerTravelAd
 
     @Override
     public void onClick(View view) {
-
+      Log.d(TAG, "Clicked on: " + places.get(getLayoutPosition()).getName());
     }
   }
 
